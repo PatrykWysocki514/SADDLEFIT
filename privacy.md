@@ -45,3 +45,51 @@ Jeśli masz konto użytkownika albo dodałeś komentarze w tej witrynie, możesz
 **Gdzie wysłamy twoje dane**
 
 Komentarze gości mogą być sprawdzane za pomocą automatycznej usługi wykrywania spamu.
+
+**Who we are**
+
+The address of our website is: saddlefit.eu. Saddlefit Sp. z o.o. 12 Brukowa St., 91-341 Łódź, NIP: 9472007184
+
+**Comments**
+
+When a site visitor leaves a comment, we collect the data visible in the comment form, as well as the visitor's IP address and browser signature as an aid to spam detection.
+
+An anonymized string created from your email address (also known as a hash) can be sent to the Gravatar service to verify that it is being used. The Gravatar service's privacy policy is available at: https://automattic.com/privacy/. Once your comment is approved, your profile picture is publicly visible in the context of your comment.
+
+**Media**
+
+If you are a registered user and upload images to the site, you should avoid uploading images with EXIF location tags. Site visitors can download and read the full location data from images on the site.
+
+**Cookies**
+
+If you comment on something on the site, you will be able to choose to save your name, email address and website in cookies, so that when you write further comments, the above information will already be conveniently completed. The cookies expire after one year.
+
+If you visit the login page, we will create a temporary cookie for the purpose of checking whether your browser accepts cookies. It does not contain any personal information and will be deleted when the browser is closed.
+
+When you log in, we additionally create several cookies needed to save your login information and selected screen options. The login cookies expire after two days, and the screen options after one year. If you check the "Remember me" option, the login expires after two weeks. If you log out of your account, your login cookies will be deleted.
+
+If you modify or publish an article, an additional cookie will be stored in your browser. This cookie does not contain any personal information, simply pointing to the ID of the article you have just edited. It expires after 1 day.
+
+**Embedded content from other sites**
+
+Articles on this site may contain embedded content (e.g. videos, images, articles, etc.). Embedded content from other sites behaves analogously to if you visited a specific site directly.
+
+Sites may collect information about you, use cookies, attach additional third-party tracking systems and monitor your interactions with embedded material, including tracking your interactions with embedded material if you have an account and are logged into that site.
+
+**With whom we share data**
+
+If you request a password reset, your IP address will be included in the message being sent.
+
+**How long we keep your data**
+
+If you leave a comment, its content and metadata will be stored indefinitely. This allows us to recognize and approve subsequent comments automatically, without sending them for moderation each time.
+
+For users who have registered on our website (if any), we also store the personal information entered in the profile. Any user can review, correct or delete his or her personal information at any time (except for the username, which cannot be changed). Site administrators can also view and modify this information.
+
+**What rights do you have to your data**
+
+If you have a user account or have added comments on this site, you may request a file with an exported set of your personal information in our possession, including all of that provided by you. You may also request that we delete all of your personal data in our possession. This does not apply to any data that we are obliged to retain for administrative, legal or security reasons.
+
+**Where we send your data**
+
+Visitor comments can be checked by an automated spam detection service.
